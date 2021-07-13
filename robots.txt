@@ -1,5 +1,5 @@
 User-Agent: *
 Disallow:
 Allow: /
-Sitemap: https://vkist.com/page-sitemap.xml 
+Sitemap: https://mhbub.com/page-sitemap.xml 
 

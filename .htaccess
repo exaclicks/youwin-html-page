@@ -1,0 +1,5 @@
+DirectoryIndex index.html
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^vkist.com [NC]
+RewriteRule ^(.*)$ http://www.vkist.com/$1 [L,R=301]
