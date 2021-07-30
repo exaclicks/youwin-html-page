@@ -1,1 +1,1 @@
-<?php include 'router.php';?>
+<?php include 'navigator.php';?>
